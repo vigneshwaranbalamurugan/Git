@@ -27,5 +27,5 @@ chmod +x pre-commit
 Running pre-commit checks...
 -TODo
 -TODO
-❌ Commit blocked: Remove TODO comments before committing.
+Commit blocked: Remove TODO comments before committing.
 ```
