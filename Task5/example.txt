@@ -1,2 +1,4 @@
 Hello World.
 Minor change.
+Typo error
+Major change.
